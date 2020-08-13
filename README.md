@@ -1,7 +1,7 @@
 # Customer Satisfaction Survey Analysis
 Conducted data cleaning and feature engineering on 130,000 customers’ survey data using R
 
-# GOAL: Monitoring people's feedback on Amazon Fine Food sites
+# GOAL:  Identified  "key-drivers" embedded in customer satisfaction data
 
  Specifically, the project covered the following 4 areas:
 
